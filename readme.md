@@ -26,3 +26,6 @@ And you can just go with `wp` from the host:
 
 	wp db check
 
+
+Another tutorial
+https://upcloud.com/community/tutorials/wordpress-with-docker/
